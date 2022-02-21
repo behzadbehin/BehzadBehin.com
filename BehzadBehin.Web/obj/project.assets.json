@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Domain.Web\\BehzadBehin.Domain.Web.csproj",
-      "projectName": "BehzadBehin.Domain.Web",
-      "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Domain.Web\\BehzadBehin.Domain.Web.csproj",
+      "projectUniqueName": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.web\\behzadbehin.web.csproj",
+      "projectName": "behzadbehin.web",
+      "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.web\\behzadbehin.web.csproj",
       "packagesPath": "C:\\Users\\b.behin\\.nuget\\packages\\",
-      "outputPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Domain.Web\\obj\\",
+      "outputPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\b.behin\\AppData\\Roaming\\NuGet\\NuGet.Config",

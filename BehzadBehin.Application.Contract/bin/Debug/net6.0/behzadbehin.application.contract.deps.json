@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "behzadbehin.application.contract/1.0.0": {
+        "runtime": {
+          "behzadbehin.application.contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "behzadbehin.application.contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

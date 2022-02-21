@@ -1,0 +1,5 @@
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\behzadbehin.data\obj\Debug\net6.0\behzadbehin.data.csproj.AssemblyReference.cache
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\behzadbehin.data\obj\Debug\net6.0\behzadbehin.data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\behzadbehin.data\obj\Debug\net6.0\behzadbehin.data.AssemblyInfoInputs.cache
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\behzadbehin.data\obj\Debug\net6.0\behzadbehin.data.AssemblyInfo.cs
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\behzadbehin.data\obj\Debug\net6.0\behzadbehin.data.csproj.CoreCompileInputs.cache
