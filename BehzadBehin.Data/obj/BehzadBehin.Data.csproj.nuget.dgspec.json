@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\behzadbehin.data.csproj": {}
+    "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Data\\BehzadBehin.Data.csproj": {}
   },
   "projects": {
-    "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\behzadbehin.data.csproj": {
+    "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Data\\BehzadBehin.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\behzadbehin.data.csproj",
-        "projectName": "behzadbehin.data",
-        "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\behzadbehin.data.csproj",
+        "projectUniqueName": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Data\\BehzadBehin.Data.csproj",
+        "projectName": "BehzadBehin.Data",
+        "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Data\\BehzadBehin.Data.csproj",
         "packagesPath": "C:\\Users\\b.behin\\.nuget\\packages\\",
-        "outputPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\obj\\",
+        "outputPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\b.behin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.domain\\behzadbehin.domain.csproj": {
-                "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.domain\\behzadbehin.domain.csproj"
+              "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Domain\\BehzadBehin.Domain.csproj": {
+                "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Domain\\BehzadBehin.Domain.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.domain\\behzadbehin.domain.csproj": {
+    "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Domain\\BehzadBehin.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.domain\\behzadbehin.domain.csproj",
-        "projectName": "behzadbehin.domain",
-        "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.domain\\behzadbehin.domain.csproj",
+        "projectUniqueName": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Domain\\BehzadBehin.Domain.csproj",
+        "projectName": "BehzadBehin.Domain",
+        "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Domain\\BehzadBehin.Domain.csproj",
         "packagesPath": "C:\\Users\\b.behin\\.nuget\\packages\\",
-        "outputPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.domain\\obj\\",
+        "outputPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\b.behin\\AppData\\Roaming\\NuGet\\NuGet.Config",

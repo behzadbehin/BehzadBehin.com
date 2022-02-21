@@ -632,14 +632,14 @@
           }
         }
       },
-      "behzadbehin.domain/1.0.0": {
+      "BehzadBehin.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/behzadbehin.domain.dll": {}
+          "bin/placeholder/BehzadBehin.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/behzadbehin.domain.dll": {}
+          "bin/placeholder/BehzadBehin.Domain.dll": {}
         }
       }
     }
@@ -1861,17 +1861,17 @@
         "version.txt"
       ]
     },
-    "behzadbehin.domain/1.0.0": {
+    "BehzadBehin.Domain/1.0.0": {
       "type": "project",
-      "path": "../behzadbehin.domain/behzadbehin.domain.csproj",
-      "msbuildProject": "../behzadbehin.domain/behzadbehin.domain.csproj"
+      "path": "../BehzadBehin.Domain/BehzadBehin.Domain.csproj",
+      "msbuildProject": "../BehzadBehin.Domain/BehzadBehin.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BehzadBehin.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.2",
-      "Microsoft.EntityFrameworkCore.tools >= 6.0.2",
-      "behzadbehin.domain >= 1.0.0"
+      "Microsoft.EntityFrameworkCore.tools >= 6.0.2"
     ]
   },
   "packageFolders": {
@@ -1880,11 +1880,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\behzadbehin.data.csproj",
-      "projectName": "behzadbehin.data",
-      "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\behzadbehin.data.csproj",
+      "projectUniqueName": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Data\\BehzadBehin.Data.csproj",
+      "projectName": "BehzadBehin.Data",
+      "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Data\\BehzadBehin.Data.csproj",
       "packagesPath": "C:\\Users\\b.behin\\.nuget\\packages\\",
-      "outputPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\obj\\",
+      "outputPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\b.behin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1901,8 +1901,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.domain\\behzadbehin.domain.csproj": {
-              "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.domain\\behzadbehin.domain.csproj"
+            "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Domain\\BehzadBehin.Domain.csproj": {
+              "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Domain\\BehzadBehin.Domain.csproj"
             }
           }
         }

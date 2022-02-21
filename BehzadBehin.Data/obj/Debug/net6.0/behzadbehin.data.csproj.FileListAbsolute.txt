@@ -3,3 +3,15 @@ D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\behzadbehin.data\ob
 D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\behzadbehin.data\obj\Debug\net6.0\behzadbehin.data.AssemblyInfoInputs.cache
 D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\behzadbehin.data\obj\Debug\net6.0\behzadbehin.data.AssemblyInfo.cs
 D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\behzadbehin.data\obj\Debug\net6.0\behzadbehin.data.csproj.CoreCompileInputs.cache
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\BehzadBehin.Data\bin\Debug\net6.0\BehzadBehin.Data.deps.json
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\BehzadBehin.Data\bin\Debug\net6.0\BehzadBehin.Data.runtimeconfig.json
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\BehzadBehin.Data\bin\Debug\net6.0\BehzadBehin.Data.dll
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\BehzadBehin.Data\bin\Debug\net6.0\ref\BehzadBehin.Data.dll
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\BehzadBehin.Data\bin\Debug\net6.0\BehzadBehin.Data.pdb
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\BehzadBehin.Data\bin\Debug\net6.0\BehzadBehin.Domain.dll
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\BehzadBehin.Data\bin\Debug\net6.0\BehzadBehin.Domain.pdb
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\BehzadBehin.Data\obj\Debug\net6.0\BehzadBehin.Data.csproj.CopyComplete
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\BehzadBehin.Data\obj\Debug\net6.0\BehzadBehin.Data.dll
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\BehzadBehin.Data\obj\Debug\net6.0\ref\BehzadBehin.Data.dll
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\BehzadBehin.Data\obj\Debug\net6.0\BehzadBehin.Data.pdb
+D:\Behzad Behin - 2022-01-29\BehzadBehin.com\BehzadBehin.com\BehzadBehin.Data\obj\Debug\net6.0\BehzadBehin.Data.genruntimeconfig.cache

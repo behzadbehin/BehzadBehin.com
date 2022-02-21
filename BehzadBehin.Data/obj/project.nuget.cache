@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zZAEGv8IE3oGK8rLZVSVCuM11Rf/gRVKHikHSuFJ2PyCAtq4x0/iGigwLHa2Kgs4LRK54WWkoPjKmgYzATi8NA==",
+  "dgSpecHash": "XlQ6v8MXXYoSswQg2kqYEwuQxPSCRnpHPomNSnL/uka/1TdScvFxGyrbgG35R0WjAbcwWJOQxvYiBQlkKKMuhw==",
   "success": true,
-  "projectFilePath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\behzadbehin.data.csproj",
+  "projectFilePath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.Data\\BehzadBehin.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\b.behin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\b.behin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

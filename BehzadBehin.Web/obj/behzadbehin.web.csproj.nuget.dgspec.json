@@ -1,17 +1,87 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.web\\behzadbehin.web.csproj": {}
+    "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.web\\BehzadBehin.web.csproj": {}
   },
   "projects": {
-    "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.web\\behzadbehin.web.csproj": {
+    "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\behzadbehin.data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.web\\behzadbehin.web.csproj",
-        "projectName": "behzadbehin.web",
-        "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.web\\behzadbehin.web.csproj",
+        "projectUniqueName": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\behzadbehin.data.csproj",
+        "projectName": "behzadbehin.data",
+        "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\behzadbehin.data.csproj",
         "packagesPath": "C:\\Users\\b.behin\\.nuget\\packages\\",
-        "outputPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.web\\obj\\",
+        "outputPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\b.behin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.domain\\behzadbehin.domain.csproj": {
+                "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.domain\\behzadbehin.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.domain\\behzadbehin.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.domain\\behzadbehin.domain.csproj",
+        "projectName": "behzadbehin.domain",
+        "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.domain\\behzadbehin.domain.csproj",
+        "packagesPath": "C:\\Users\\b.behin\\.nuget\\packages\\",
+        "outputPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\b.behin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,6 +120,79 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.web\\BehzadBehin.web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.web\\BehzadBehin.web.csproj",
+        "projectName": "BehzadBehin.web",
+        "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.web\\BehzadBehin.web.csproj",
+        "packagesPath": "C:\\Users\\b.behin\\.nuget\\packages\\",
+        "outputPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\BehzadBehin.web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\b.behin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\behzadbehin.data.csproj": {
+                "projectPath": "D:\\Behzad Behin - 2022-01-29\\BehzadBehin.com\\BehzadBehin.com\\behzadbehin.data\\behzadbehin.data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
